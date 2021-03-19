@@ -1,8 +1,4 @@
-/**
- *Submitted for verification at BscScan.com on 2021-02-12
-*/
-
-// HODL is the first modified fork of RFI on Binance Smart Chain
+// PLN is the first modified fork of RFI on Binance Smart Chain
 
 // SPDX-License-Identifier: MIT
 
@@ -504,8 +500,8 @@ pragma solidity ^0.6.2;
     uint256 private _rTotal = (MAX - (MAX % _tTotal));
     uint256 private _tFeeTotal;
 
-    string private _name = 'hodlearn.net';
-    string private _symbol = 'HODL';
+    string private _name = 'Token Listrik';
+    string private _symbol = 'PLN';
     uint8 private _decimals = 9;
 
     constructor () public {
